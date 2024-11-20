@@ -1,3 +1,5 @@
+![twitter_x_logo](https://github.com/user-attachments/assets/9dcdbe07-a491-4495-9a07-566adf7a2d54)
+
 This code was initially taken from: https://www.reddit.com/r/Twitter/comments/1gs601u/removing_all_my_followers/. The user used ChatGPT to create the code. I manipulated the code a little bit to ensure it keeps scrolling to find followers to remove. This is NOT an instant thing. If you migrate away from the page it stops and you will need to start again.
 
 Follow the steps below to run:
