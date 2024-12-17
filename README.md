@@ -49,5 +49,12 @@ This script automates the process of removing your Twitter/X followers. Original
 
 ---
 
+## Connect with Me
+- 🌐 Website: [DarkWebInformer](https://darkwebinformer.com)
+- 🐦 Twitter/X: [DarkWebInformer](https://x.com/DarkWebInformer)
+- 🔗 All Links & Canary: [darkwebinformer.com/canary](https://darkwebinformer.com/canary)
+
+---
+
 ## Disclaimer
 This script is for educational and personal use only. Use it responsibly and in compliance with Twitter/X's Terms of Service. The author is not responsible for any misuse or potential consequences of running this script.
